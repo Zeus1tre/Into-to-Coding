@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+table {
+    text-align: center;
+}
+tbody{
+    text-align: center;
+}
+p {
+font-size: 15px;
+color: rgb(150, 150, 150);
+}
+hr {
+    size: 1px;
+    width: 300;
+    color: rgb(59, 59, 59);
+}
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+td {
+    color:rgb(150, 150, 150);
+    font-size: 15px; 
+    text-align: center;
+}

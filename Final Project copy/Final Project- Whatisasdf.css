@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    align-items: center;
+}
+table {
+    align-self: center;
+}
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}

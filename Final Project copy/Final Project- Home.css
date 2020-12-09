@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+p {
+font-size: 26px;
+color: rgb(150, 150, 150);
+}
+hr {
+    size: 1px;
+    width: 300;
+    color: rgb(59, 59, 59);
+}
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
